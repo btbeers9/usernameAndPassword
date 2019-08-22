@@ -16,6 +16,12 @@ class ViewController: UIViewController {
         if usernameTextField.text == "btbeers" && passwordTextField.text == "qwerty" {
             resultLabel.text = "Correct!"
             
+            
+            
+            
+            
+            
+            
             usernameTextField.resignFirstResponder()
             passwordTextField.resignFirstResponder()
             
